@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: java-demo
-        image: bharani5166/my-kubs:v0.0.2
+        image: bharani5166/java-doc-kubs:v0.0.2
         ports:
         - containerPort: 8080
         env:
